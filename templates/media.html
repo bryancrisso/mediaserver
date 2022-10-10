@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+    <head>
+        <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+        <title>All Media</title>
+    </head>
+    
+    <body>
+        <ul class="navbar">
+            <li class="navbar" style="float:left;"><p><b>MediaServer</b></p></li>
+            <li class="navbar"><a href="/">Home</a></li>
+            <li class="navbar"><a href="/films">Films</a></li>
+            <li class="navbar"><a href="/shows">Shows</a></li>
+            <li class="navbar"><a href="/media">All Media</a></li>
+        </ul>
+        <h1>All Media Files</h1>
+        <h2>Episodes</h2>
+        <ul>
+            {% for row in rows %}
+            <li><a href="watch/ep/{{row['EpisodeID']}}">{{row["EpisodeName"]}}</a></li>
+            {% endfor %}
+        </ul>
+        <h2>Films</h2>
+        <ul>
+            {% for row in films %}
+            <li><a href="watch/film/{{row['MovieID']}}">{{row["MovieName"]}}</a></li>
+            {% endfor %}
+        </ul>
+    </body>
+</html>

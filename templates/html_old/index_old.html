@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Media Server</title>
+    </head>
+    <body>
+        <h3>All Individual Media Files</h3>
+
+        <ul>
+        {% for row in rows %}
+        <li><a href="watch/{{row['id']}}">{{row["name"]}}</a></li>
+        {% endfor %}
+        </ul>
+    </body>
+</html>

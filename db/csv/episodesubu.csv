@@ -1,0 +1,91 @@
+EpisodeID,SeasonRef,EpisodeName,EpisodeNum,Length,Filesize,Filepath,Subspath
+1,1,Chapter 1: The Mandalorian,1,2326,372264792,/media/drive2/share/media/Shows/Mandalorian/h264/S1/the.mandalorian.s01e01.themandalorian.mp4,/media/drive2/share/media/Shows/Mandalorian/data/subs/vtt/S1/the.mandalorian.s01e01.720p.web.dl.hevc.x265.rmteam.vtt
+2,1,Chapter 2: The Child,2,1856,263636757,/media/drive2/share/media/Shows/Mandalorian/h264/S1/the.mandalorian.s01e02.thechild.mp4,/media/drive2/share/media/Shows/Mandalorian/data/subs/vtt/S1/the.mandalorian.s01e02.internal.720p.web.hevc.x265.rmteam.vtt
+3,1,Chapter 3: The Sin,3,2237,300575372,/media/drive2/share/media/Shows/Mandalorian/h264/S1/the.mandalorian.s01e03.thesin.mp4,/media/drive2/share/media/Shows/Mandalorian/data/subs/vtt/S1/the.mandalorian.s01e03.chapter.3.720p.web.dl.hevc.x265.rmteam.vtt
+4,1,Chapter 4: Sanctuary,4,2475,340894240,/media/drive2/share/media/Shows/Mandalorian/h264/S1/the.mandalorian.s01e04.sanctuary.mp4,/media/drive2/share/media/Shows/Mandalorian/data/subs/vtt/S1/the.mandalorian.s01e04.chapter.4.720p.web.dl.hevc.x265.rmteam.vtt
+5,1,Chapter 5: The Gunslinger,5,1970,284877170,/media/drive2/share/media/Shows/Mandalorian/h264/S1/the.mandalorian.s01e05.thegunslinger.mp4,/media/drive2/share/media/Shows/Mandalorian/data/subs/vtt/S1/the.mandalorian.s01e05.internal.720p.web.hevc.x265.rmteam.vtt
+6,1,Chapter 6: The Prisoner,6,2598,359743635,/media/drive2/share/media/Shows/Mandalorian/h264/S1/the.mandalorian.s01e06.theprisoner.mp4,/media/drive2/share/media/Shows/Mandalorian/data/subs/vtt/S1/the.mandalorian.s01e06.chapter.6.720p.webrip.hevc.x265.rmteam.vtt
+7,1,Chapter 7: The Reckoning,7,2432,335294117,/media/drive2/share/media/Shows/Mandalorian/h264/S1/the.mandalorian.s01e07.thereckoning.mp4,/media/drive2/share/media/Shows/Mandalorian/data/subs/vtt/S1/the.mandalorian.s01e07.chapter.7.repack.720p.webrip.hevc.x265.rmteam.vtt
+8,1,Chapter 8: Redemption,8,2922,402789251,/media/drive2/share/media/Shows/Mandalorian/h264/S1/the.mandalorian.s01e08.redemption.mp4,/media/drive2/share/media/Shows/Mandalorian/data/subs/vtt/S1/the.mandalorian.s01e08.chapter.8.720p.web.dl.hevc.x265.rmteam.vtt
+9,2,Chapter 9: The Marshal,9,3108,448644886,/media/drive2/share/media/Shows/Mandalorian/h264/S2/the.mandalorian.s02e01.themarshal.mp4,/media/drive2/share/media/Shows/Mandalorian/data/subs/vtt/S2/the.mandalorian.s02e01.720p.webrip.hevc.x265.rmteam.vtt
+10,2,Chapter 10: The Passenger,10,2372,342066266,/media/drive2/share/media/Shows/Mandalorian/h264/S2/the.mandalorian.s02e02.thepassenger.mp4,/media/drive2/share/media/Shows/Mandalorian/data/subs/vtt/S2/the.mandalorian.s02e02.720p.webrip.hevc.x265.rmteam.vtt
+11,2,Chapter 11: The Heiress,11,1982,284787054,/media/drive2/share/media/Shows/Mandalorian/h264/S2/the.mandalorian.s02e03.theheiress.mp4,/media/drive2/share/media/Shows/Mandalorian/data/subs/vtt/S2/the.mandalorian.s02e03.chapter.11.the.heiress.720p.webrip.hevc.x265.rmteam.vtt
+12,2,Chapter 12: The Siege,12,2225,318621113,/media/drive2/share/media/Shows/Mandalorian/h264/S2/the.mandalorian.s02e04.thesiege.mp4,/media/drive2/share/media/Shows/Mandalorian/data/subs/vtt/S2/the.mandalorian.s02e04.chapter.12.the.siege.720p.webrip.hevc.x265.rmteam.vtt
+13,2,Chapter 13: The Jedi,13,2820,382782386,/media/drive2/share/media/Shows/Mandalorian/h264/S2/the.mandalorian.s02e05.thejedi.mp4,/media/drive2/share/media/Shows/Mandalorian/data/subs/vtt/S2/the.mandalorian.s02e05.chapter.13.the.jedi.720p.webrip.hevc.x265.rmteam.vtt
+14,2,Chapter 14: The Tragedy,14,1901,270722819,/media/drive2/share/media/Shows/Mandalorian/h264/S2/the.mandalorian.s02e06.thetragedy.mp4,/media/drive2/share/media/Shows/Mandalorian/data/subs/vtt/S2/the.mandalorian.s02e06.720p.web.hevc.x265.rmteam.vtt
+15,2,Chapter 15: The Believer,15,2176,311467886,/media/drive2/share/media/Shows/Mandalorian/h264/S2/the.mandalorian.s02e07.thebeliever.mp4,/media/drive2/share/media/Shows/Mandalorian/data/subs/vtt/S2/the.mandalorian.s02e07.chapter.15.the.believer.720p.webrip.hevc.x265.rmteam.vtt
+16,2,Chapter 16: The Rescue,16,2641,364949279,/media/drive2/share/media/Shows/Mandalorian/h264/S2/the.mandalorian.s02e08.therescue.mp4,/media/drive2/share/media/Shows/Mandalorian/data/subs/vtt/S2/the.mandalorian.s02e08.chapter.16.the.rescue.720p.webrip.hevc.x265.rmteam.vtt
+17,3,Classroom of the Elite S1E1,1,1442,209891191,/media/drive2/share/media/Anime/ClassroomOftheElite/S1/Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e-01--1080p--BD--Dual Audio-.mp4, 
+18,3,Classroom of the Elite S1E2,2,1442,172431617,/media/drive2/share/media/Anime/ClassroomOftheElite/S1/Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e-02--1080p--BD--Dual Audio-.mp4, 
+19,3,Classroom of the Elite S1E3,3,1442,192754972,/media/drive2/share/media/Anime/ClassroomOftheElite/S1/Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e-03--1080p--BD--Dual Audio-.mp4, 
+20,3,Classroom of the Elite S1E4,4,1442,218583741,/media/drive2/share/media/Anime/ClassroomOftheElite/S1/Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e-04--1080p--BD--Dual Audio-.mp4, 
+21,3,Classroom of the Elite S1E5,5,1442,180029270,/media/drive2/share/media/Anime/ClassroomOftheElite/S1/Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e-05--1080p--BD--Dual Audio-.mp4, 
+22,3,Classroom of the Elite S1E6,6,1442,203174265,/media/drive2/share/media/Anime/ClassroomOftheElite/S1/Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e-06--1080p--BD--Dual Audio-.mp4, 
+23,3,Classroom of the Elite S1E7,7,1442,205422556,/media/drive2/share/media/Anime/ClassroomOftheElite/S1/Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e-07--1080p--BD--Dual Audio-.mp4, 
+24,3,Classroom of the Elite S1E8,8,1442,205243667,/media/drive2/share/media/Anime/ClassroomOftheElite/S1/Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e-08--1080p--BD--Dual Audio-.mp4, 
+25,3,Classroom of the Elite S1E9,9,1440,188809988,/media/drive2/share/media/Anime/ClassroomOftheElite/S1/Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e-09--1080p--BD--Dual Audio-.mp4, 
+26,3,Classroom of the Elite S1E10,10,1442,190253709,/media/drive2/share/media/Anime/ClassroomOftheElite/S1/Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e-10--1080p--BD--Dual Audio-.mp4, 
+27,3,Classroom of the Elite S1E11,11,1442,216630810,/media/drive2/share/media/Anime/ClassroomOftheElite/S1/Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e-11--1080p--BD--Dual Audio-.mp4, 
+28,3,Classroom of the Elite S1E12,12,1437,170457905,/media/drive2/share/media/Anime/ClassroomOftheElite/S1/Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e-12--1080p--BD--Dual Audio-.mp4, 
+29,4,Eighty Six S1E1,1,1421,251459257,/media/drive2/share/media/Anime/86Eighty-Six/Season 1/S01E01-Undertaker [2F703024].1080.mp4, 
+30,4,Eighty Six S1E2,2,1421,254653946,/media/drive2/share/media/Anime/86Eighty-Six/Season 1/S01E02-Spearhead [116A13AB].1080.mp4, 
+31,4,Eighty Six S1E3,3,1421,246938160,/media/drive2/share/media/Anime/86Eighty-Six/Season 1/S01E03-I Don-t Want to Die [AE3BA36B].1080.mp4, 
+32,4,Eighty Six S1E4,4,1421,203107808,/media/drive2/share/media/Anime/86Eighty-Six/Season 1/S01E04-Real Name [4B8DED51].1080.mp4, 
+33,4,Eighty Six S1E5,5,1421,234669896,/media/drive2/share/media/Anime/86Eighty-Six/Season 1/S01E05-I-m With You [428EC48D].1080.mp4, 
+34,4,Eighty Six S1E6,6,1421,261315472,/media/drive2/share/media/Anime/86Eighty-Six/Season 1/S01E06-Through to the End [6BB9F503].1080.mp4, 
+35,4,Eighty Six S1E7,7,1421,229162213,/media/drive2/share/media/Anime/86Eighty-Six/Season 1/S01E07-Will You Remember Me [0E722107].1080.mp4, 
+36,4,Eighty Six S1E8,8,1421,207506795,/media/drive2/share/media/Anime/86Eighty-Six/Season 1/S01E08-Let-s Go [3C480CEB].1080.mp4, 
+37,4,Eighty Six S1E9,9,1421,293378742,/media/drive2/share/media/Anime/86Eighty-Six/Season 1/S01E09-Goodbye [3CDD8194].1080.mp4, 
+38,4,Eighty Six S1E10,10,1421,268354429,/media/drive2/share/media/Anime/86Eighty-Six/Season 1/S01E10-Thank You [E9C493C6].1080.mp4, 
+39,4,Eighty Six S1E11,11,1420,281324517,/media/drive2/share/media/Anime/86Eighty-Six/Season 1/S01E11-Here We Go [0A00513A].1080.mp4, 
+40,5,Eighty Six S2E1,1,1420,268390731,/media/drive2/share/media/Anime/86Eighty-Six/Season 2/86 - Eighty Six - 22 - 1080p WEB H.264 -NanDesuKa (B-Global).1080.mp4, 
+41,5,Eighty Six S2E2,2,1420,226735762,/media/drive2/share/media/Anime/86Eighty-Six/Season 2/[SubsPlease] 86 - Eighty Six - 12 (1080p) [5D1A3C41].1080.mp4, 
+42,5,Eighty Six S2E3,3,1420,205689824,/media/drive2/share/media/Anime/86Eighty-Six/Season 2/[SubsPlease] 86 - Eighty Six - 13 (1080p) [87C492A3].1080.mp4, 
+43,5,Eighty Six S2E4,4,1420,234499672,/media/drive2/share/media/Anime/86Eighty-Six/Season 2/[SubsPlease] 86 - Eighty Six - 14 (1080p) [FA7A9F89].1080.mp4, 
+44,5,Eighty Six S2E5,5,1420,197033854,/media/drive2/share/media/Anime/86Eighty-Six/Season 2/[SubsPlease] 86 - Eighty Six - 15 (1080p) [771F5809].1080.mp4, 
+45,5,Eighty Six S2E6,6,1420,331577432,/media/drive2/share/media/Anime/86Eighty-Six/Season 2/[SubsPlease] 86 - Eighty Six - 16 (1080p) [51DD10DB].1080.mp4, 
+46,5,Eighty Six S2E7,7,1420,230517742,/media/drive2/share/media/Anime/86Eighty-Six/Season 2/[SubsPlease] 86 - Eighty Six - 17 (1080p) [1405E6E5].1080.mp4, 
+47,5,Eighty Six S2E8,8,1420,196388404,/media/drive2/share/media/Anime/86Eighty-Six/Season 2/[SubsPlease] 86 - Eighty Six - 18 (1080p) [4D8A0AA7].1080.mp4, 
+48,5,Eighty Six S2E9,9,1420,310520120,/media/drive2/share/media/Anime/86Eighty-Six/Season 2/[SubsPlease] 86 - Eighty Six - 19 (1080p) [5B02549D].1080.mp4, 
+49,5,Eighty Six S2E10,10,1420,209456498,/media/drive2/share/media/Anime/86Eighty-Six/Season 2/[SubsPlease] 86 - Eighty Six - 20 (1080p) [0918D725].1080.mp4, 
+50,5,Eighty Six S2E11,11,1420,356084719,/media/drive2/share/media/Anime/86Eighty-Six/Season 2/[SubsPlease] 86 - Eighty Six - 21 (1080p) [46F7BE9E].1080.mp4, 
+51,5,Eighty Six S2E12,12,1420,243295680,/media/drive2/share/media/Anime/86Eighty-Six/Season 2/[SubsPlease] 86 - Eighty Six - 23 (1080p) [2AE12F67].1080.mp4, 
+52,6,Obi Wan Kenobi E1,1,3148,420963097,/media/drive2/share/media/Shows/Obi-Wan-Kenobi/h264/obi.wan.kenobi.s01e01.1080p.web.hevc.x265.rmteam.mp4,/media/drive2/share/media/Shows/Obi-Wan-Kenobi/data/subs/vtt/Obi-Wan.Kenobi.S01E01.1080p.WEB.h264-KOGi-HI.vtt
+53,6,Obi Wan Kenobi E2,2,2322,299706108,/media/drive2/share/media/Shows/Obi-Wan-Kenobi/h264/obi.wan.kenobi.s01e02.1080p.web.hevc.x265.rmteam.mp4,/media/drive2/share/media/Shows/Obi-Wan-Kenobi/data/subs/vtt/Obi-Wan.Kenobi.S01E02.1080p.WEB.h264-KOGi-HI.vtt
+54,6,Obi Wan Kenobi E3,3,2674,356537337,/media/drive2/share/media/Shows/Obi-Wan-Kenobi/h264/obi.wan.kenobi.s01e03.1080p.web.hevc.x265.rmteam.mp4,/media/drive2/share/media/Shows/Obi-Wan-Kenobi/data/subs/vtt/Obi-Wan.Kenobi.S01E03.720p.WEB.x265-MiNX.Hi.vtt
+55,6,Obi Wan Kenobi E4,4,2180,280157226,/media/drive2/share/media/Shows/Obi-Wan-Kenobi/h264/obi.wan.kenobi.s01e04.1080p.webrip.hevc.x265.rmteam.mp4,/media/drive2/share/media/Shows/Obi-Wan-Kenobi/data/subs/vtt/Obi-Wan.Kenobi.S01E04.1080p.WEB.h264-KOGi-HI.vtt
+56,6,Obi Wan Kenobi E5,5,2417,317178948,/media/drive2/share/media/Shows/Obi-Wan-Kenobi/h264/obi.wan.kenobi.s01e05.1080p.webrip.hevc.x265.rmteam.mp4,/media/drive2/share/media/Shows/Obi-Wan-Kenobi/data/subs/vtt/Obi-Wan.Kenobi.S01E05.720p.WEB.h264-KOGi.HI.V2.vtt
+57,6,Obi Wan Kenobi E6,6,2907,387683117,/media/drive2/share/media/Shows/Obi-Wan-Kenobi/h264/obi.wan.kenobi.s01e06.1080p.webrip.hevc.x265.rmteam.mp4,/media/drive2/share/media/Shows/Obi-Wan-Kenobi/data/subs/vtt/Obi-Wan.Kenobi.S01E06.1080p.DSNP.WEB-DL.DDP5.1.H.264-HI.vtt
+58,8,Breaking Bad S1E1,1,3486,499892133,/media/drive2/share/media/Shows/BreakingBad/mp4/S1/breaking.bad.s01e01.dvdrip.xvid-orpheus.mp4, 
+59,8,Breaking Bad S1E2,2,2893,418659271,/media/drive2/share/media/Shows/BreakingBad/mp4/S1/breaking.bad.s01e02.dvdrip.xvid-orpheus.mp4, 
+60,8,Breaking Bad S1E3,3,2892,417792159,/media/drive2/share/media/Shows/BreakingBad/mp4/S1/breaking.bad.s01e03.dvdrip.xvid-orpheus.mp4, 
+61,8,Breaking Bad S1E4,4,2892,419831976,/media/drive2/share/media/Shows/BreakingBad/mp4/S1/breaking.bad.s01e04.dvdrip.xvid-orpheus.mp4, 
+62,8,Breaking Bad S1E5,5,2891,417856865,/media/drive2/share/media/Shows/BreakingBad/mp4/S1/breaking.bad.s01e05.dvdrip.xvid-orpheus.mp4, 
+63,8,Breaking Bad S1E6,6,2885,417900987,/media/drive2/share/media/Shows/BreakingBad/mp4/S1/breaking.bad.s01e06.dvdrip.xvid-orpheus.mp4, 
+64,8,Breaking Bad S1E7,7,2867,417004529,/media/drive2/share/media/Shows/BreakingBad/mp4/S1/breaking.bad.s01e07.dvdrip.xvid-orpheus.mp4, 
+65,7,Breaking Bad S2E1,1,2720,392039700,/media/drive2/share/media/Shows/BreakingBad/mp4/S2/breaking.bad.s02e01.dvdrip.xvid-nodlabs.mp4, 
+66,7,Breaking Bad S2E2,2,2760,399085776,/media/drive2/share/media/Shows/BreakingBad/mp4/S2/breaking.bad.s02e02.dvdrip.xvid-nodlabs.mp4, 
+67,7,Breaking Bad S2E3,3,2705,389105930,/media/drive2/share/media/Shows/BreakingBad/mp4/S2/breaking.bad.s02e03.dvdrip.xvid-nodlabs.mp4, 
+68,7,Breaking Bad S2E4,4,2729,394055491,/media/drive2/share/media/Shows/BreakingBad/mp4/S2/breaking.bad.s02e04.dvdrip.xvid-nodlabs.mp4, 
+69,7,Breaking Bad S2E5,5,2726,395254304,/media/drive2/share/media/Shows/BreakingBad/mp4/S2/breaking.bad.s02e05.dvdrip.xvid-nodlabs.mp4, 
+70,7,Breaking Bad S2E6,6,2726,395130551,/media/drive2/share/media/Shows/BreakingBad/mp4/S2/breaking.bad.s02e06.dvdrip.xvid-nodlabs.mp4, 
+71,7,Breaking Bad S2E7,7,2726,389273163,/media/drive2/share/media/Shows/BreakingBad/mp4/S2/breaking.bad.s02e07.dvdrip.xvid-nodlabs.mp4, 
+72,7,Breaking Bad S2E8,8,2725,395316567,/media/drive2/share/media/Shows/BreakingBad/mp4/S2/breaking.bad.s02e08.dvdrip.xvid-nodlabs.mp4, 
+73,7,Breaking Bad S2E9,9,2726,394454733,/media/drive2/share/media/Shows/BreakingBad/mp4/S2/breaking.bad.s02e09.dvdrip.xvid-nodlabs.mp4, 
+74,7,Breaking Bad S2E10,10,2727,395089135,/media/drive2/share/media/Shows/BreakingBad/mp4/S2/breaking.bad.s02e10.dvdrip.xvid-nodlabs.mp4, 
+75,7,Breaking Bad S2E11,11,2726,396388032,/media/drive2/share/media/Shows/BreakingBad/mp4/S2/breaking.bad.s02e11.dvdrip.xvid-nodlabs.mp4, 
+76,7,Breaking Bad S2E12,12,2728,392955564,/media/drive2/share/media/Shows/BreakingBad/mp4/S2/breaking.bad.s02e12.dvdrip.xvid-nodlabs.mp4, 
+77,7,Breaking Bad S2E13,13,2739,397892777,/media/drive2/share/media/Shows/BreakingBad/mp4/S2/breaking.bad.s02e13.dvdrip.xvid-nodlabs.mp4, 
+78,9,Breaking Bad S3E1,1,2721,395941172,/media/drive2/share/media/Shows/BreakingBad/mp4/S3/aaf-breaking.bad.s03e01.no.mas.mp4, 
+79,9,Breaking Bad S3E2,2,2719,392262566,/media/drive2/share/media/Shows/BreakingBad/mp4/S3/aaf-breaking.bad.s03e02.caballo.sin.nombre.mp4, 
+80,9,Breaking Bad S3E3,3,2721,392781957,/media/drive2/share/media/Shows/BreakingBad/mp4/S3/aaf-breaking.bad.s03e03.i.f.t.mp4, 
+81,9,Breaking Bad S3E4,4,2721,393470576,/media/drive2/share/media/Shows/BreakingBad/mp4/S3/aaf-breaking.bad.s03e04.repack.green.light.mp4, 
+82,9,Breaking Bad S3E5,5,2722,393569264,/media/drive2/share/media/Shows/BreakingBad/mp4/S3/aaf-breaking.bad.s03e05.mas.mp4, 
+83,9,Breaking Bad S3E6,6,2722,392505991,/media/drive2/share/media/Shows/BreakingBad/mp4/S3/aaf-breaking.bad.s03e06.sunset.mp4, 
+84,9,Breaking Bad S3E7,7,2722,395185826,/media/drive2/share/media/Shows/BreakingBad/mp4/S3/aaf-breaking.bad.s03e07.one.minute.mp4, 
+85,9,Breaking Bad S3E8,8,2723,392319965,/media/drive2/share/media/Shows/BreakingBad/mp4/S3/aaf-breaking.bad.s03e08.i.see.you.mp4, 
+86,9,Breaking Bad S3E9,9,2721,393270588,/media/drive2/share/media/Shows/BreakingBad/mp4/S3/aaf-breaking.bad.s03e09.kafkaesque.mp4, 
+87,9,Breaking Bad S3E10,10,2721,392483409,/media/drive2/share/media/Shows/BreakingBad/mp4/S3/aaf-breaking.bad.s03e10.fly.mp4, 
+88,9,Breaking Bad S3E11,11,2721,394691715,/media/drive2/share/media/Shows/BreakingBad/mp4/S3/aaf-breaking.bad.s03e11.abiquiu.mp4, 
+89,9,Breaking Bad S3E12,12,2718,392914990,/media/drive2/share/media/Shows/BreakingBad/mp4/S3/aaf-breaking.bad.s03e12.half.measures.mp4, 
+90,9,Breaking Bad S3E13,13,2722,393774117,/media/drive2/share/media/Shows/BreakingBad/mp4/S3/aaf-breaking.bad.s03e13.full.measure.mp4, 

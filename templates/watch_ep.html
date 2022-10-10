@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+    <head>
+        <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+        <title>{{name}}</title>
+    </head>
+    
+    <body>
+        <ul class="navbar">
+            <li class="navbar" style="float:left;"><p><b>MediaServer</b></p></li>
+            <li class="navbar"><a href="/">Home</a></li>
+            <li class="navbar"><a href="/films">Films</a></li>
+            <li class="navbar"><a href="/shows">Shows</a></li>
+            <li class="navbar"><a href="/media">All Media</a></li>
+        </ul>
+        <div style="width:100%; display:table;">
+            <div style="display: table-row;">
+                <div style="width: 75%; display: table-cell; padding:10px 10px;">
+                    <video controls autoplay width="100%" name="media">
+                        <source src="{{url}}" type="video/mp4">
+                        <track label="English" kind="subtitles" srclang="en" src="{{subs}}" default>
+                    </video>
+                    <h1 class="video_title">{{name}}</h1>
+                </div>
+                <div style="display: table-cell; vertical-align: top;">
+                    <h1>{{show_name}}</h1>
+                        <ul>
+                            {% for season in listing %}
+                            <li>
+                                <p>{{season[0]["SeasonName"]}}</p>
+                                <ul>
+                                    {% for episode in season[1] %}
+                                        <li>
+                                            <a href="/watch/ep/{{episode['EpisodeID']}}">{{episode["EpisodeName"]}}</a>
+                                        </li>
+                                    {% endfor %}
+                                </ul>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
